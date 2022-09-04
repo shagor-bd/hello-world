@@ -4,7 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required
+    <br>
+    <label for="Gender"><b>Enter Gender</b></label>
+    <input type="text" placeholder="Enter Gender" name="gender" id="gender" required>
+
     <br>
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
