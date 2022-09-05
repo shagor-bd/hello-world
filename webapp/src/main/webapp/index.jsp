@@ -26,6 +26,8 @@
     <hr>
     <br>
     <button type="submit" class="registerbtn">Register</button>
+
+    <h2>Just for Test<h2>
   </div>
 
   <div class="container signin">
