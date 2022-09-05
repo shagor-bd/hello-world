@@ -8,7 +8,7 @@
     <br>
     <label for="Gender"><b>Enter Gender</b></label>
     <input type="text" placeholder="Enter Gender" name="gender" id="gender" required>
-
+    <h1>Register Going On</h1>
     <br>
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
